@@ -1,0 +1,20 @@
+{
+  "name": "romanconverter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node romanconv.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  },
+  "dependencies": {
+    "prompt": "^1.2.0",
+    "save": "^2.4.0"
+  }
+}
